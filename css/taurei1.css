@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    background-image:url("../image/2.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    margin: 0px;
+    padding: 0px;
+    background-color: aliceblue;
+}
+#counter{
+    background-color: aqua;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    z-index: 9;
+}
+h1 {
+padding-top: 50px; 
+
+}
+
+h2 {
+    width: 410px;
+    height: 580px;
+    position: relative;
+    top:55px;
+    left:-41px;
+}
+#p2 {
+    
+    position: relative;
+    top:-578px;
+    left:20px;
+}
+#p1 {
+    position: relative;
+    top:-577px;
+    left:38px;
+}
+#logo1 {
+    position: relative;
+    top: -528px;
+    left:-13px;
+}
+.progress {
+    margin-top: 50px;
+    color: transparent;
+    background-image: transparent; 
+}
